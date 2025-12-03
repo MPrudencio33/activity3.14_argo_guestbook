@@ -1,7 +1,7 @@
 apiVersion: argoproj.io/v1alpha1
 kind: Application
 metadata:
-  name: ryan-guessbook-webapp
+  name: marlon-guessbook-webapp
   finalizers:
   - resources-finalizer.argocd.argoproj.io
 spec:
